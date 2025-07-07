@@ -37,39 +37,39 @@
 * Lección 2  
   * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-2-Capitulo-Movimiento%20y%20Salto.pdf)
 * Lección 3  
-  * > [Evidencia](tutoriales/Tutorial-3-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-3-Capitulo-RecojerFruta.pdf)
 * Lección 4  
-  * > [Evidencia](tutoriales/Tutorial-4-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-4-Capitulo-Animaciones2D.pdf)
 * Lección 5  
-  * > [Evidencia](tutoriales/Tutorial-5-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-5-Capitulo-Enemigos.pdf)
 * Lección 6  
-  * > [Evidencia](tutoriales/Tutorial-6-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-6-Nuevos%20Niveles-Level.pdf)
 * Lección 7  
-  * > [Evidencia](tutoriales/Tutorial-7-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-7-Check-Point.pdf)
 * Lección 8  
-  * > [Evidencia](tutoriales/Tutorial-8-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-8-Hit%20y%20Transici%C3%B3n.pdf)
 * Lección 9  
-  * > [Evidencia](tutoriales/Tutorial-9-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-9-Doble%20Salto%20y%20Caida.pdf)
 * Lección 10  
-  * > [Evidencia](tutoriales/Tutorial-10-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-10-Plataformas%20de%20doble%20sentido.pdf)
 * Lección 11  
-  * > [Evidencia](tutoriales/Tutorial-11-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-11-Skins_Nuevos%20Personajes.pdf)
 * Lección 12  
-  * > [Evidencia](tutoriales/Tutorial-12-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-12-Menu%20Principal.pdf)
 * Lección 13  
-  * > [Evidencia](tutoriales/Tutorial-13-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-13-Menu%20Principal%20Parte%202.pdf)
 * Lección 14  
-  * > [Evidencia](tutoriales/Tutorial-14-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-14-Controles%20Para%20Movil.pdf)
 * Lección 15  
-  * > [Evidencia](tutoriales/Tutorial-15-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-15-Score.pdf)
 * Lección 16  
-  * > [Evidencia](tutoriales/Tutorial-16-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-16-Menu%20Pausa%20y%20Options.pdf)
 * Lección 17  
-  * > [Evidencia](tutoriales/Tutorial-17-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-17-Inteligencia%20Artificial.pdf)
 * Lección 18  
-  * > [Evidencia](tutoriales/Tutorial-18-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-18-IA%20Parte%202.pdf)
 * Lección 19  
-  * > [Evidencia](tutoriales/Tutorial-19-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-19-Musica%20Y%20Sonidos.pdf)
 * Lección 20  
   * > [Evidencia](tutoriales/Tutorial-20-Capitulo-Escenario.pdf)
 * Lección 21  
@@ -89,7 +89,7 @@
 * Lección 28  
   * > [Evidencia](tutoriales/Tutorial-28-Capitulo-Escenario.pdf)
 * Lección 29  
-  * > [Evidencia](tutoriales/Tutorial-29-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-29-Vidas.pdf)
 * Lección 30  
   * > [Evidencia](tutoriales/Tutorial-30-Capitulo-Escenario.pdf)
 * Lección 31  
