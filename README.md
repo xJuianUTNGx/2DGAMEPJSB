@@ -73,21 +73,21 @@
 * Lección 20  
   * > [Evidencia](tutoriales/Tutorial-20-Capitulo-Escenario.pdf)
 * Lección 21  
-  * > [Evidencia](tutoriales/Tutorial-21-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-21.pdf)
 * Lección 22  
-  * > [Evidencia](tutoriales/Tutorial-22-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-22.pdf)
 * Lección 23  
-  * > [Evidencia](tutoriales/Tutorial-23-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-23.pdf)
 * Lección 24  
-  * > [Evidencia](tutoriales/Tutorial-24-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-24.pdf)
 * Lección 25  
-  * > [Evidencia](tutoriales/Tutorial-25-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-25.pdf)
 * Lección 26  
-  * > [Evidencia](tutoriales/Tutorial-26-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-26.pdf)
 * Lección 27  
-  * > [Evidencia](tutoriales/Tutorial-27-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-27.pdf)
 * Lección 28  
-  * > [Evidencia](tutoriales/Tutorial-28-Capitulo-Escenario.pdf)
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-28.pdf)
 * Lección 29  
   * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-29-Vidas.pdf)
 * Lección 30  
