@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="![image](https://github.com/user-attachments/assets/e7f6da28-cc61-4331-a48d-98e3d8499716)" alt="Logo" width=1200 height=300>
+    <img src="img/portadavideogame2D.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
