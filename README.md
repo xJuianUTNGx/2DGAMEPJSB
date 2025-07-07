@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="![image](https://github.com/user-attachments/assets/e7f6da28-cc61-4331-a48d-98e3d8499716)" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
@@ -24,12 +24,10 @@
 ## Introducción
 
 - Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
+- Desarrollar un videojuego de plataformas 2D en Unity desde cero, aplicando conceptos de programación, diseño de niveles, animaciones y mecánicas de juego, con el fin de aprender y dominar el      proceso completo de creación de videojuegos.
+- PC (Windows)
+- Plataformas / Aventura
+- Frog, Virtual guy y Pink man
 - Plan de creación de VideoJuego.
 
 ## Código Fuente
@@ -111,7 +109,7 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Bill Gates & Steve Jobs
+Julian Soto Badillo
 
 ## Copyright
-Derechos Reservados 2022
+Derechos Reservados 2025
