@@ -35,30 +35,75 @@
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Evidencia
 * Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Evidencia
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Evidencia
 * Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Evidencia
 * Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > Evidencia
+* Lección 6
+  * > Evidencia
+* Lección 7
+  * > Evidencia
+* Lección 8
+  * > Evidencia
+* Lección 9
+  * > Evidencia
+* Lección 10
+  * > Evidencia
+* Lección 11
+  * > Evidencia
+* Lección 12
+  * > Evidencia
+* Lección 13
+  * > Evidencia
+* Lección 14
+  * > Evidencia
+* Lección 15
+  * > Evidencia
+* Lección 16
+  * > Evidencia
+* Lección 17
+  * > Evidencia
+* Lección 18
+  * > Evidencia
+* Lección 19
+  * > Evidencia
+* Lección 20
+  * > Evidencia
+* Lección 21
+  * > Evidencia
+* Lección 22
+  * > Evidencia
+* Lección 23
+  * > Evidencia
+* Lección 24
+  * > Evidencia
+* Lección 25
+  * > Evidencia
+* Lección 26
+  * > Evidencia
+* Lección 27
+  * > Evidencia
+* Lección 28
+  * > Evidencia
+* Lección 29
+  * > Evidencia
+* Lección 30
+  * > Evidencia
+* Lección 31
+  * > Evidencia
+* Lección 32
+  * > Evidencia
+* Lección 33
+  * > Evidencia
+* Lección 34
+  * > Evidencia
+* Lección 35
+  * > Evidencia
 * VideoJuego
 
 ## Planificación
