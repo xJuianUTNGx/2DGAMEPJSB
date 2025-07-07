@@ -35,7 +35,7 @@
 * Lección 1  
   * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-1-Capitulo-Escenario.pdf)
 * Lección 2  
-  * > [Evidencia](tutoriales/Tutorial-2-Capitulo-Escenario.pdf)
+  * > [Evidencia]([tutoriales/Tutorial-2-Capitulo-Escenario.pdf](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-2-Capitulo-Movimiento%20y%20Salto.pdf))
 * Lección 3  
   * > [Evidencia](tutoriales/Tutorial-3-Capitulo-Escenario.pdf)
 * Lección 4  
