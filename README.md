@@ -33,7 +33,7 @@
 ## Código Fuente
 
 * Lección 1  
-  * > [Evidencia]([tutoriales/Tutorial-1-Capitulo-Escenario.pdf](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/739b5bb5cdb3316a4e4b991a37436e6a5e77c074/Evidencia%20tutoriales/Tutorial-1-Capitulo-Escenario.pdf))
+  * > [Evidencia](https://github.com/xJuianUTNGx/2DGAMEPJSB/blob/main/Evidencia%20tutoriales/Tutorial-1-Capitulo-Escenario.pdf)
 * Lección 2  
   * > [Evidencia](tutoriales/Tutorial-2-Capitulo-Escenario.pdf)
 * Lección 3  
